@@ -2,7 +2,7 @@ import pyglet
 from pyglet.window import key
 
 
-""" Main Features :
+""" Features :
   * Press right mouse btn to create life and left btn to destroy life
   * Press enter or middle mouse btn(M3) to stop/start the simulation
   * Press P or Hold down the middle mouse btn(M3) to clear the board

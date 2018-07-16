@@ -9,7 +9,7 @@ from pyglet.window import key
   * Window side(pixels) is in line 20
   * Grid size is in line 26
   * Refresh rate(seconds) is in line 28
-  * Enjoy! - OrCohen&ElamarKadosh 2018
+  * Enjoy! - OrCohen&ElamarKadosh 7.2018
 """
 
 

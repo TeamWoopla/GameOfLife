@@ -1,5 +1,5 @@
 # GameOfLife
-Our python vertion of the "Conway's Game of Life", small and simple project :D
+Our python version of the "Conway's Game of Life", small and simple project :D
 
 Features :
 * Press right mouse btn to create life and left btn to destroy life
